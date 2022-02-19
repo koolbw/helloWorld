@@ -11,12 +11,10 @@ This is a basic Hello World program. I created this to demonstrate the use of Vi
 
 * Visual Studio Code
 * Python 3.8.3 32-bit
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used}
+* Git / GitHub
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [Git Hub Documentation](https://docs.github.com/en)
+* [Python Ref Manual](https://docs.python.org/3/library/)
